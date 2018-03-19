@@ -1,0 +1,6 @@
+data
+data.zip
+*.pyc
+checkpoint
+acc.txt
+results.txt
